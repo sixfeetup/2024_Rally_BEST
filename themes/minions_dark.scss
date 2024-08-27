@@ -112,6 +112,9 @@ body:after {
   right: -26em;
 }
 
+body.no-logo:after {
+  opacity: 0;
+}
 
 // Theme template ------------------------------
 @import "../template/theme";
