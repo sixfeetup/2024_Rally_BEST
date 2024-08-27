@@ -109,8 +109,9 @@ body:after {
   transform: scale(.2);
   position: fixed;
   bottom: -14em;
-  left: -26em;
+  right: -26em;
 }
+
 
 // Theme template ------------------------------
 @import "../template/theme";

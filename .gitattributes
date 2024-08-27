@@ -20,3 +20,9 @@ images/space_tribunal.png filter=lfs diff=lfs merge=lfs -text
 images/space_paradox.png filter=lfs diff=lfs merge=lfs -text
 images/dm33B-x7.png filter=lfs diff=lfs merge=lfs -text
 images/best-19-practice-areas.png filter=lfs diff=lfs merge=lfs -text
+images/slide1.jpg filter=lfs diff=lfs merge=lfs -text
+images/slide4.jpg filter=lfs diff=lfs merge=lfs -text
+images/slide5.jpg filter=lfs diff=lfs merge=lfs -text
+images/iStock-1358839342.jpg filter=lfs diff=lfs merge=lfs -text
+images/iStock-1377749663.jpg filter=lfs diff=lfs merge=lfs -text
+images/iStock-672950640.jpg filter=lfs diff=lfs merge=lfs -text
