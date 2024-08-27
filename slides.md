@@ -44,7 +44,7 @@ keywords:
 
 # {.original data-background-image="images/slide7.png"}
 
-# Talk To Me {data-background-image="images/space_comms.png"}
+# Get a Demo at our Booth {.r-fit-text data-background-image="images/space_comms.png"}
 
 📩 <calvin@sixfeetup.com>  
 🤝 <https://linkedin.com/in/calvinhp>  
